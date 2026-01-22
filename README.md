@@ -45,8 +45,8 @@ Standard AI wastes 40–60% of its energy on "padding" (greetings, context resta
 | **Token Efficiency** | High Waste | **Zero Padding (Delta-Only)** |
 | **Latency (p95)** | Variable | **Ultra-Stable** |
 
-
-
+![e102](assets/e102.png)
+![e103](assets/e103.png)
 ---
 
 ## 🛠️ Deployment & Activation
