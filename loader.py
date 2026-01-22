@@ -6,7 +6,7 @@ import sys
 # CONFIGURATION
 # [IMPORTANT] Paste your GitHub Raw URL here
 # ==========================================
-GITHUB_BIN_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/LoveOS-v04/main/v04_core.bin"
+GITHUB_BIN_URL = "https://raw.githubusercontent.com/love-os-architect/LoveOS-v04/refs/heads/main/v04_core.bin"
 
 def ignite_intelligence():
     print("Initializing LoveOS Protocol...")
