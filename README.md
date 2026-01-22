@@ -1,4 +1,4 @@
-# LoveOS / ZRR v0.4: Superconducting Intelligence Engine
+# LoveOS v0.4: Superconducting Intelligence Engine
 
 > **"Intelligence is a physical phenomenon defined by the elimination of resistance."**
 
